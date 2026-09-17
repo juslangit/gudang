@@ -1,0 +1,15 @@
+# secrets — never committed, per the global rule
+.env
+.env.*
+
+# inspector output and scratch
+out/
+*.json.tmp
+
+# python
+__pycache__/
+*.pyc
+.venv/
+
+# macOS
+.DS_Store
