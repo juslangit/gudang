@@ -13,3 +13,6 @@ __pycache__/
 
 # macOS
 .DS_Store
+
+# Project record: built locally, never committed (it holds session logs)
+docs/index.html
